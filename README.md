@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Eleni, full stack developer
+### Hi there 👋 I'm Eleni
 <!--
 Here's what I'm learning right now
 ![TYPESCRIPT](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
