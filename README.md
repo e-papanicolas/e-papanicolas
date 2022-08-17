@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Eleni
+### Hi there 👋 I'm Eleni!
 
 <!--
 ### here's my current stack:
